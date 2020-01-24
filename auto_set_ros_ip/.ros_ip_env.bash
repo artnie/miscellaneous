@@ -3,7 +3,7 @@
 ## Find out your Lan and WiFi interface names via 'ifconfig' or 'ip a'.
 ### LAN_IF_NAME -> Lan interface name
 ### WIFI_IF_NAME -> WiFi interface name
-## Move this script to somewhere conveinient, like ~/.ros/ and include it in .bashrc
+## Move this script to somewhere convenient, like ~/.ros/ and include it in ~/.bashrc with this line:
 ### source ~/.ros/.ros_ip_env.bash
 ##################
 
