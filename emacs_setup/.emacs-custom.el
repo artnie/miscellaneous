@@ -11,6 +11,9 @@
 ;; Remove Toolbar
 (tool-bar-mode -1)
 
+;; Remove menu bar
+(menu-bar-mode -1)
+
 ;; Use Source Code Pro font
 (add-to-list 'default-frame-alist '(font . "Source Code Pro-10"))
 
