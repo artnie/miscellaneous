@@ -1,5 +1,6 @@
 ;; Get Source-Code Pro Font here:
 ;; https://gist.github.com/enzinier/8d00d3f37d2e23985dcfa65662d163fa
+;; Or simply run the installer script in this directory.
 
 ;; Add following line to the main emacs config file:
 ;; (load-file "/path/to/.emacs-custom.el")
