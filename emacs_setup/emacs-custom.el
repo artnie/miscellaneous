@@ -3,7 +3,7 @@
 ;; Or simply run the installer script in this directory
 
 ;; Add following line to the main emacs config file:
-;; (load-file "/path/to/.emacs-custom.el")
+;; (load-file "/path/to/emacs-custom.el")
 
 ;; Start EMACS
 ;; Install solarized-theme:
