@@ -2,7 +2,9 @@
 
 This custom config is not mandatory to work with Emacs and CRAM, but it helps a lot.
 
-* If not yet done, install roslisp_repl with `sudo apt install ros-noetic-roslisp-repl`
+## roslisp_repl config
+
+* If you want to work ROS, install roslisp_repl with `sudo apt install ros-noetic-roslisp-repl`
 * Find slime_ros with `roscd slime_ros`
 * Use your favourite text-editor to open `slime-config.el` with sudo rights, like `sudo vim slime-config.el`
 * Add a `load-file` command before the last line, so the last lines look like this:
@@ -14,6 +16,9 @@ This custom config is not mandatory to work with Emacs and CRAM, but it helps a 
 * Launch Emacs with `roslisp_repl &`
 * If Emacs says that the `yasnippet` package is missing, install it with `M-x package-install RET yasnippet RET`, close Emacs and launch it again.
 * If roslisp_repl receives an update from aptitude, it's config file gets overwritten and you need to add the load-file again to it.
+
+## General Emacs config
+The usual emacs config is in `~/.emacs.d/init.el`. Follow the above steps but do everything in that `init.el` file instead of `slime-config.el`
 
 ## cram-custom
 
