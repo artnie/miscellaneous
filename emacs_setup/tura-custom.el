@@ -1,3 +1,7 @@
+;; Adds cosmetic changes to Emacs, like scrolling, Source-Code-Pro font and a solarized theme.
+;; Check out http://cram-system.org/doc/emacs-config for the functional config,
+;; or get it here: https://github.com/artnie/miscellaneous/blob/master/emacs_setup/cram-custom.el
+
 ;; Get Source-Code Pro Font here:
 ;; https://gist.github.com/enzinier/8d00d3f37d2e23985dcfa65662d163fa
 ;; Or simply run the installer script in this directory
