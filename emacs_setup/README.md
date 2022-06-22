@@ -13,6 +13,7 @@ This custom config is not mandatory to work with Emacs and CRAM, but it helps a 
 * Make sure to give the full path to the file you want to add.
 * Launch Emacs with `roslisp_repl &`
 * If Emacs says that the `yasnippet` package is missing, install it with `M-x package-install RET yasnippet RET`, close Emacs and launch it again.
+* If roslisp_repl receives an update from aptitude, it's config file gets overwritten and you need to add the load-file again to it.
 
 ## cram-custom
 
