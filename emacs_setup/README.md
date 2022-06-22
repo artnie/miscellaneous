@@ -18,7 +18,7 @@ This custom config is not mandatory to work with Emacs and CRAM, but it helps a 
 * If roslisp_repl receives an update from aptitude, it's config file gets overwritten and you need to add the load-file again to it.
 
 ## General Emacs config
-The usual emacs config is in `~/.emacs.d/init.el`. Follow the above steps but do everything in that `init.el` file instead of `slime-config.el`
+The usual Emacs config without roslisp is in `~/.emacs.d/init.el`. Create the file if it's missing. Follow the above steps but do everything in that `init.el` file instead of `slime-config.el`
 
 ## cram-custom
 
