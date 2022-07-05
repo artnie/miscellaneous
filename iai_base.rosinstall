@@ -1,0 +1,33 @@
+# base repositories for iai stuff
+- git:
+    local-name: giskard_msgs
+    uri: git@github.com:SemRoCo/giskard_msgs.git
+    version: v0.5.0
+- git:
+    local-name: iai_common_msgs
+    uri: git@github.com:code-iai/iai_common_msgs.git
+    version: master
+- git:
+    local-name: iai_maps
+    uri: git@github.com:code-iai/iai_maps.git
+    version: master
+- git:
+    local-name: iai_robots
+    uri: git@github.com:code-iai/iai_robots.git
+    version: master
+- git:
+    local-name: iai_pr2
+    uri: git@github.com:code-iai/iai_pr2.git
+    version: master
+- git:
+    local-name: iai_naive_kinematics_sim
+    uri: git@github.com:code-iai/iai_naive_kinematics_sim.git
+    version: 18.04
+- git:
+    local-name: omni_pose_follower
+    uri: git@github.com:code-iai/omni_pose_follower.git
+    version: master
+- git:
+    local-name: robosherlock_msgs
+    uri: git@github.com:RoboSherlock/robosherlock_msgs.git
+    version: master
