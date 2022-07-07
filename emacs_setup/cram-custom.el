@@ -189,7 +189,7 @@
 ;;; It is included in emacs23 or later.
 (require 'whitespace)
 (setq-default whitespace-style '(face trailing lines-tail indentation::space))
-(setq-default whitespace-line-column 80)
+(setq-default whitespace-line-column 100)
 (setq-default whitespace-indentation nil)
 (global-whitespace-mode 1)
 (set-face-attribute 'whitespace-line nil
