@@ -1,5 +1,6 @@
 ;;; -*- mode: Emacs-Lisp -*-
 ;;; Emacs version: 24.4
+;; From http://cram-system.org/doc/emacs-config
  
 ;;;;;;;;;;;;;;;;;;;;;;;;;;; Appearance and Editing ;;;;;;;;;;;;;;;;;;;;;;
  
