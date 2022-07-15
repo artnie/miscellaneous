@@ -38,6 +38,8 @@
 ;; Remove menu-bar
 (menu-bar-mode -1)
 
+(setq visible-bell 'T) ;; replaces bell sound with flashing window
+
 ;; Register 'make' command to compile tex files
 ;; (eval-after-load "tex" '(add-to-list 'TeX-command-list
 ;;                                      '("Make" "make" TeX-run-compile nil t)))
